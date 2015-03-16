@@ -1,0 +1,204 @@
+{
+  "checksum": {
+    "previous": "c5feef93adb85de30cab3015d7d40972a961fc1789c1b1ebd76f160d25d24c8f",
+    "current": "c5feef93adb85de30cab3015d7d40972a961fc1789c1b1ebd76f160d25d24c8f"
+  },
+  "fonts": [
+    "./build/MaterialIcons.ttf",
+    "./build/MaterialIcons.svg",
+    "./build/MaterialIcons.woff",
+    "./build/MaterialIcons.eot"
+  ],
+  "glyphs": {
+    "ic_add_48px": {
+      "codepoint": 62575,
+      "source": "./tmp/ic_add_48px.svg"
+    },
+    "ic_add_box_48px": {
+      "codepoint": 62576,
+      "source": "./tmp/ic_add_box_48px.svg"
+    },
+    "ic_add_circle_48px": {
+      "codepoint": 62577,
+      "source": "./tmp/ic_add_circle_48px.svg"
+    },
+    "ic_add_circle_outline_48px": {
+      "codepoint": 62578,
+      "source": "./tmp/ic_add_circle_outline_48px.svg"
+    },
+    "ic_archive_48px": {
+      "codepoint": 62579,
+      "source": "./tmp/ic_archive_48px.svg"
+    },
+    "ic_backspace_48px": {
+      "codepoint": 62582,
+      "source": "./tmp/ic_backspace_48px.svg"
+    },
+    "ic_block_48px": {
+      "codepoint": 62583,
+      "source": "./tmp/ic_block_48px.svg"
+    },
+    "ic_check_box_48px": {
+      "codepoint": 62663,
+      "source": "./tmp/ic_check_box_48px.svg"
+    },
+    "ic_check_box_outline_blank_48px": {
+      "codepoint": 62664,
+      "source": "./tmp/ic_check_box_outline_blank_48px.svg"
+    },
+    "ic_clear_48px": {
+      "codepoint": 62596,
+      "source": "./tmp/ic_clear_48px.svg"
+    },
+    "ic_content_copy_48px": {
+      "codepoint": 62597,
+      "source": "./tmp/ic_content_copy_48px.svg"
+    },
+    "ic_content_cut_48px": {
+      "codepoint": 62598,
+      "source": "./tmp/ic_content_cut_48px.svg"
+    },
+    "ic_content_paste_48px": {
+      "codepoint": 62599,
+      "source": "./tmp/ic_content_paste_48px.svg"
+    },
+    "ic_create_48px": {
+      "codepoint": 62600,
+      "source": "./tmp/ic_create_48px.svg"
+    },
+    "ic_drafts_48px": {
+      "codepoint": 62601,
+      "source": "./tmp/ic_drafts_48px.svg"
+    },
+    "ic_error_48px": {
+      "codepoint": 62602,
+      "source": "./tmp/ic_error_48px.svg"
+    },
+    "ic_filter_list_48px": {
+      "codepoint": 62603,
+      "source": "./tmp/ic_filter_list_48px.svg"
+    },
+    "ic_flag_48px": {
+      "codepoint": 62604,
+      "source": "./tmp/ic_flag_48px.svg"
+    },
+    "ic_forward_48px": {
+      "codepoint": 62627,
+      "source": "./tmp/ic_forward_48px.svg"
+    },
+    "ic_gesture_48px": {
+      "codepoint": 62629,
+      "source": "./tmp/ic_gesture_48px.svg"
+    },
+    "ic_inbox_48px": {
+      "codepoint": 62630,
+      "source": "./tmp/ic_inbox_48px.svg"
+    },
+    "ic_link_48px": {
+      "codepoint": 62638,
+      "source": "./tmp/ic_link_48px.svg"
+    },
+    "ic_mail_48px": {
+      "codepoint": 62639,
+      "source": "./tmp/ic_mail_48px.svg"
+    },
+    "ic_markunread_48px": {
+      "codepoint": 62640,
+      "source": "./tmp/ic_markunread_48px.svg"
+    },
+    "ic_radio_button_off_48px": {
+      "codepoint": 62665,
+      "source": "./tmp/ic_radio_button_off_48px.svg"
+    },
+    "ic_radio_button_on_48px": {
+      "codepoint": 62666,
+      "source": "./tmp/ic_radio_button_on_48px.svg"
+    },
+    "ic_redo_48px": {
+      "codepoint": 62645,
+      "source": "./tmp/ic_redo_48px.svg"
+    },
+    "ic_remove_48px": {
+      "codepoint": 62646,
+      "source": "./tmp/ic_remove_48px.svg"
+    },
+    "ic_remove_circle_48px": {
+      "codepoint": 62647,
+      "source": "./tmp/ic_remove_circle_48px.svg"
+    },
+    "ic_remove_circle_outline_48px": {
+      "codepoint": 62648,
+      "source": "./tmp/ic_remove_circle_outline_48px.svg"
+    },
+    "ic_reply_48px": {
+      "codepoint": 62649,
+      "source": "./tmp/ic_reply_48px.svg"
+    },
+    "ic_reply_all_48px": {
+      "codepoint": 62650,
+      "source": "./tmp/ic_reply_all_48px.svg"
+    },
+    "ic_report_48px": {
+      "codepoint": 62651,
+      "source": "./tmp/ic_report_48px.svg"
+    },
+    "ic_save_48px": {
+      "codepoint": 62652,
+      "source": "./tmp/ic_save_48px.svg"
+    },
+    "ic_select_all_48px": {
+      "codepoint": 62653,
+      "source": "./tmp/ic_select_all_48px.svg"
+    },
+    "ic_send_48px": {
+      "codepoint": 62654,
+      "source": "./tmp/ic_send_48px.svg"
+    },
+    "ic_sort_48px": {
+      "codepoint": 62655,
+      "source": "./tmp/ic_sort_48px.svg"
+    },
+    "ic_text_format_48px": {
+      "codepoint": 62656,
+      "source": "./tmp/ic_text_format_48px.svg"
+    },
+    "ic_undo_48px": {
+      "codepoint": 62657,
+      "source": "./tmp/ic_undo_48px.svg"
+    },
+    "ic_warning_48px": {
+      "codepoint": 62661,
+      "source": "./tmp/ic_warning_48px.svg"
+    }
+  },
+  "options": {
+    "autowidth": true,
+    "config": "/home/eugene/GIT/MaterialIconFont/MaterialIconsFont.yml",
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 400,
+    "font_descent": 0,
+    "font_design_size": 48,
+    "font_em": 512,
+    "font_name": "MaterialIcons",
+    "force": false,
+    "input": {
+      "templates": "./tmp",
+      "vectors": "./tmp"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "./build",
+      "fonts": "./build",
+      "preview": "./build"
+    },
+    "preprocessor_path": "",
+    "quiet": false,
+    "templates": [
+      "preview"
+    ]
+  },
+  "templates": [
+    "./build/MaterialIcons-preview.html"
+  ]
+}
